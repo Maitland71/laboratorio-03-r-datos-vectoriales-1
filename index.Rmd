@@ -205,7 +205,8 @@ kable_styling()
 
 
 
-plot(centro_america_lifeexp["lifeExp"], main=" Países Centroamericanos con esperanza de vida igual o mayor a 74 años ")
+plot(centro_america_lifeexp["lifeExp"],
+     main="Países Centroamericanos con esperanza de vida mayor a 74 años")
 
 
 ```
